@@ -1,29 +1,77 @@
 # 👋 Hi, I’m Pravin Khaire (Pkhaire45)!
 
+---
+
+## Table of Contents
+- [About Me](#-about-me)
+- [Highlight Project](#-highlight-project)
+- [Skills](#-skills)
+- [Open Source Contributions](#-open-source-contributions)
+- [What Drives Me](#-what-drives-me)
+- [Fun Facts](#-fun-facts)
+- [Future Goals](#-future-goals)
+- [Connect with Me](#-connect-with-me)
+
+---
+
 ## 🚀 About Me
-- 🧑‍💻 **Software Developer** specializing in backend development
-- 💡 Expertise: **Python**, **Node.js**, **Java**
-- 🌱 Quick Learner & Passionate about building technology that matters
+- 🧑‍💻 A passionate Software Developer specializing in backend development.
+- 💡 Expertise in **Python**, **Node.js**, and **Java**.
+- 🌱 Quick learner dedicated to building impactful technology.
+- 🏆 Thrive on solving challenging problems and delivering high-quality solutions.
+
+---
 
 ## 🏆 Highlight Project
+
 ### IoT-based Crop Recommendation Using Deep Learning
-> Leveraged IoT and deep learning to create a smart crop recommendation system, helping farmers make data-driven decisions for improved yield.
+- **Description:** Developed an intelligent crop recommendation system by leveraging IoT sensors and deep learning models.
+- **Technologies:** Python, TensorFlow, IoT Devices, REST APIs
+- **Role:** Backend Developer & System Architect
+- **Impact:** Enabled farmers to make data-driven decisions, improving crop yield prediction accuracy by over 25%.
+
+---
 
 ## 💼 Skills
-- Backend Development: Python | Node.js | Java
-- Building scalable APIs & services
-- Problem-solving and rapid prototyping
+
+- **Languages:** Python, Node.js, Java
+- **Frameworks & Libraries:** Django, Flask, Express.js
+- **APIs:** RESTful API Design & Implementation
+- **Databases:** MySQL, MongoDB, SQLite
+- **Tools:** Docker, Git, Postman, VS Code
+- **Other:** Problem-solving, Rapid prototyping, Scalable system design
+
+---
+
+## 🌍 Open Source Contributions
+- [YourProject1](https://github.com/yourproject1) — Brief description of your contribution.
+- [YourProject2](https://github.com/yourproject2) — Brief description of your contribution.
+
+---
 
 ## 🎯 What Drives Me
-- Always eager to learn new technologies
-- Thrive on solving challenging problems
-- Committed to delivering high-quality solutions
+
+- Eager to learn and adopt emerging technologies
+- Passionate about solving real-world problems with code
+- Committed to innovation and quality
+
+---
 
 ## ⚡ Fun Facts
-- 🏏 Love playing cricket
-- 🧑‍💻 Enjoy exploring the latest in tech
+- 🏏 I enjoy playing cricket in my free time
+- 🧑‍💻 Love exploring the latest trends in technology
+
+---
+
+## 🎯 Future Goals
+- Deepen my expertise in AI and Machine Learning
+- Contribute to impactful open-source projects
+- Build a community around tech education
+
+---
 
 ## 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravinkhaire/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-website-green)](https://pkhaire45.github.io/portfolio/)
 📧 khairepravin14@gmail.com
