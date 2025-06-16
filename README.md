@@ -6,7 +6,6 @@
 - [About Me](#-about-me)
 - [Highlight Project](#-highlight-project)
 - [Skills](#-skills)
-- [Open Source Contributions](#-open-source-contributions)
 - [What Drives Me](#-what-drives-me)
 - [Fun Facts](#-fun-facts)
 - [Future Goals](#-future-goals)
@@ -43,11 +42,6 @@
 
 ---
 
-## 🌍 Open Source Contributions
-- [YourProject1](https://github.com/yourproject1) — Brief description of your contribution.
-- [YourProject2](https://github.com/yourproject2) — Brief description of your contribution.
-
----
 
 ## 🎯 What Drives Me
 
